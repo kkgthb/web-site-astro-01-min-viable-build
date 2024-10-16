@@ -12,10 +12,8 @@
         "url": "git+https://github.com/kkgthb/web-site-astro-01-min-viable-build.git"
     },
     "scripts": {
-        "dev": "astro:dev",
-        "build": "astro:build",
-        "astro:dev": "astro dev --host",
-        "astro:build": "astro build",
+        "dev": "astro dev --host",
+        "build": "astro build",
         "preview": "astro preview",
         "astro": "astro"
     },
